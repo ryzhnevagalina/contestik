@@ -1,0 +1,14 @@
+\begin{problem}{Лучший студент [Numpy]}{stdin}{stdout}{1 second(s)}{64 MiB}
+ Напишите функцию $\text{the_best_student}$, которая принимает на вход numpy-массив, находит лучшего студента среди предложенных, у которого средняя оценка его успеваемости выше средней оценки по всем студентам.
+\InputFile
+
+\OutputFile
+
+\Examples
+\begin{example}
+\exmp{10, 8, 7, 9, 6, 
+          9, 8, 8, 8, 9, 
+          7, 8, 10, 8, 8}{not best not}{2}
+\end{example}\Note
+ При сдаче этого задания выберите компилятор make2
+\end{problem}
